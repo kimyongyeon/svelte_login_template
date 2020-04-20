@@ -1,0 +1,51 @@
+{
+    "sample": [
+        {
+          "name": "Beautiful Lies",
+          "artist": "Birdy",
+          "release": "2016.03.26",
+          "genre": "Pop"
+        },
+        {
+          "name": "sana",
+          "artist": "rapper",
+          "release": "2020.03.26",
+          "genre": "Pop-global"
+        },
+        {
+          "name": "hyumin",
+          "artist": "Birdy",
+          "release": "2016.03.26",
+          "genre": "Pop"
+        },
+        {
+          "name": "hyory",
+          "artist": "Birdy",
+          "release": "2016.03.26",
+          "genre": "Pop"
+        }
+    ],
+    "customEditor": [
+      {
+        "name": "Beautiful Lies",
+        "artist": "Birdy",
+        "typeCode": "1",
+        "genreCode": "1",
+        "grade": "1"
+      },
+      {
+        "name": "X",
+        "artist": "Ed Sheeran",
+        "typeCode": "2",
+        "genreCode": "2",
+        "grade": "2"
+      },
+      {
+        "name": "Moves Like Jagger",
+        "artist": "Maroon5",
+        "typeCode": "3",
+        "genreCode": "3",
+        "grade": "3"
+      }
+    ]
+}
